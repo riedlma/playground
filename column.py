@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+""" This python script is similar to the Unix column command. However, in contrast, the columns are sorted as specified """
+
 if len(sys.argv)<2:
     print ("python col1,col2,col5,col2 file")
     print ("or")
